@@ -1,0 +1,45 @@
+@media only screen and (max-width: 767px) {
+    .box1 {
+        padding: 23px;
+    }
+    h1 {
+        font-size: 20px;
+        margin-bottom: 25px;
+        margin-top: 20px;
+    }
+    .box1 h2 {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    .box1 p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    main {
+        display: list-item;
+        margin-bottom: 20%;
+    }
+    .box2 h2 {
+        font-size: 20px;
+    }
+    p.faded {
+        font-size: 10px;
+    }
+    .box2 span {
+        font-size: 30px;
+    }
+    .box2 p {
+        font-size: 12px;
+    }
+    button {
+        font-size: 15px;
+        width: 100%;
+    }
+    .box3 h2 {
+        font-size: 20px;
+    }
+    li {
+        font-size: 12px;
+    }
+}
